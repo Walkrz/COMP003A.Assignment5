@@ -5,7 +5,7 @@ namespace COMP003A.Assignment5
     {
         // Author: Zachary Walker
         // Course: COMP003A-L01
-        // Purpose: Code for Assignment 5
+        // Purpose: Code for Assignment 5 
 
         static void Main(string[] args)
         {
